@@ -1,2 +1,2 @@
 # Capital-Budgeting-Matlab
-Here is a script that employs a 'toolbox' of Matlab functions to model the Net Present Value (NPV) of a manufacturing firm’s Cash Flows from Operations.
+Here is a script that utilizes a 'toolbox' of Matlab functions to model the Net Present Value (NPV) of a manufacturing firm’s Cash Flows from Operations.  The script, titled CapPQ.m, models cash flows from operations to forecast operating requirements.  specifically, this is a simulation model to calculate the NPV of production to investigate and determine optimal operating requirements subject to a firm’s cost function.  The Monte Carlo simulation samples prices and quantities from an assumed bi-variate normal distribution.
